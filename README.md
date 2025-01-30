@@ -5,4 +5,5 @@
 - Using multiple  voltage sensors(zmpt101b) and esp32s the potential difference between these rods are obtained.
 - Using the obtained potential difference earth resistance, leakage current can be calculated which are the major aspects of earth-rod monitoring.
 - A moisture sensor is also interfaced with a esp 32, Since soil moisture can affect the earth resistance.
+- Finally I've displayed the intended values on a dashboard made using NodeRed.
 - This project is a small scale implementation of the proposed idea.
